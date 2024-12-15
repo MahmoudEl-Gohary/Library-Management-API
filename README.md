@@ -14,7 +14,7 @@ A RESTful API for managing a collection of books.
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/MahmoudEl-Gohary/Library-Management-API.git
    cd library-management-api
    ```
 
